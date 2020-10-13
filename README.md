@@ -1,4 +1,4 @@
-<img src="kalpana_temp.png" alt="banner that says Kalpana Upadhyay, techie - Pythonista, address">
+<img src="kalpana_temp1.png" alt="banner that says Kalpana Upadhyay, techie - Pythonista, address">
 
 ### Hi there! :)
 I'm a postgraduate in Master of Computer Applications (MCA) and have my graduate certificate in Bachelor of Science (B.Sc) with core subjects Math, Statistics and Computer Science. 
