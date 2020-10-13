@@ -23,6 +23,10 @@ I'm a postgraduate in Master of Computer Applications (MCA) and have my graduate
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
 
 ### Github Stats:
 <p>
@@ -30,7 +34,6 @@ I'm a postgraduate in Master of Computer Applications (MCA) and have my graduate
         <img src="https://github-readme-stats.vercel.app/api?username=kalpana98&hide_title=true&&show_icons=true&hi&theme=greywhite&count_private=true&include_all_commits=true">
     </a>
 </p>
-<br />
 
 ### Get in touch with me on:
 
