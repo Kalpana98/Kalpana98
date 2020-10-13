@@ -1,6 +1,6 @@
 <img src="kalpana_temp.png" alt="banner that says Kalpana Upadhyay, techie - Pythonista, address">
 
-### Hello! :)
+### Hi there! :)
 I'm a postgraduate in Master of Computer Applications (MCA) and have my graduate certificate in Bachelor of Science (B.Sc) with core subjects Math, Statistics and Computer Science. 
 
 ### Interested in:
@@ -22,6 +22,14 @@ I'm a postgraduate in Master of Computer Applications (MCA) and have my graduate
 <img align="left" alt="Jupyter Notebook" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <br />
+<br />
+
+### Github Stats:
+<p>
+    <a href="https://gitstats.me/kalpana98" target="_blank"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=kalpana98&hide_title=true&&show_icons=true&hi&theme=greywhite&count_private=true&include_all_commits=true">
+    </a>
+</p>
 <br />
 
 ### Get in touch with me on:
