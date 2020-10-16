@@ -3,6 +3,9 @@
 ### Hi there! :)
 I'm a postgraduate in Master of Computer Applications (MCA) and have my graduate certificate in Bachelor of Science (B.Sc) with core subjects Math, Statistics and Computer Science. 
 
+<!-- <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="kalpanaupadhyay"><a class="LI-simple-link" href='https://in.linkedin.com/in/kalpanaupadhyay?trk=profile-badge'>Kalpana Upadhyay</a></div> -->
+
 ### Interested in:
 - Python 
 - Backend Development 
