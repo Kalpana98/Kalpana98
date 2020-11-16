@@ -8,7 +8,7 @@ I'm a postgraduate in Master of Computer Applications (MCA) and have my graduate
 
 ### Interested in:
 - Python 
-- Backend Development 
+- Web Development (Backend)
 - Machine Learning 
 - Data Science 
 
