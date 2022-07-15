@@ -1,4 +1,4 @@
-### Hi there! :)
+### Hi there!
 Professionally, I'm a Full-Stack Developer (PERN Stack) working at TCS.
 
 <img align="left" alt="PostgreSQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
@@ -7,11 +7,9 @@ Professionally, I'm a Full-Stack Developer (PERN Stack) working at TCS.
 <img align="left" alt="Nodejs" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <br />
 <br />
-<br />
-<br />
-Educational Background- Postgraduate in Master of Computer Applications (MCA), and having a graduate degree in Bachelor of Science (B.Sc) with core subjects Math, Computer Science and Statistics.
+Educational Background: Postgraduate in Master of Computer Applications (MCA), and having a graduate degree in Bachelor of Science (B.Sc) with core subjects Math, Computer Science and Statistics.
 
-### to get in touch: <a href="https://www.linkedin.com/in/kalpanaupadhyay"> <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
+### get in touch:) <a href="https://www.linkedin.com/in/kalpanaupadhyay"> <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
 
 <!-- ### Github Stats:
 <p>
