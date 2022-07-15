@@ -12,12 +12,10 @@ Professionally, I'm a Full-Stack Developer (PERN Stack) working at TCS.
 Educational Background- Postgraduate in Master of Computer Applications (MCA), and having a graduate degree in Bachelor of Science (B.Sc) with core subjects Math, Computer Science and Statistics.
 
 ### Get in touch with me on:
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="kalpanaupadhyay" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/kalpanaupadhyay?trk=profile-badge">Kalpana Upadhyay</a></div>
               
-<!-- <a href="https://www.linkedin.com/in/kalpanaupadhyay">
+<a href="https://www.linkedin.com/in/kalpanaupadhyay">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> -->
+</a>
 
 <!-- ### Github Stats:
 <p>
