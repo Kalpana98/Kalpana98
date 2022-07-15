@@ -1,5 +1,5 @@
 ### Hi there!
-Professionally, I'm a Full-Stack Developer (PERN Stack) working at TCS.
+Professionally, a Full-Stack Developer working on PERN Stack.
 
 <img align="left" alt="PostgreSQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Express" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
