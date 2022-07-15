@@ -13,7 +13,8 @@ Educational Background- Postgraduate in Master of Computer Applications (MCA), a
 
 ### Get in touch with me on:
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="kalpanaupadhyay" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/kalpanaupadhyay?trk=profile-badge">Kalpana Upadhyay</a></div>
+              
 <!-- <a href="https://www.linkedin.com/in/kalpanaupadhyay">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> -->
